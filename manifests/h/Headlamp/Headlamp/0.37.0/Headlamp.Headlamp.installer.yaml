@@ -1,0 +1,15 @@
+PackageIdentifier: Headlamp.Headlamp
+PackageVersion: 0.37.0
+InstallerLocale: en-US
+InstallerType: nullsoft
+Scope: user
+InstallModes:
+  - interactive
+  - silent
+ReleaseDate: 2025-10-30
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/kubernetes-sigs/headlamp/releases/download/v0.37.0/Headlamp-0.37.0-win-x64.exe
+    InstallerSha256: c48779c5f7da1eeb0eeef636db61a029519f35219206c727d809d39e79453612
+ManifestType: installer
+ManifestVersion: 1.6.0
